@@ -1,1 +1,1 @@
-alias alz='CODESPACES=false az login'
+alias azl='CODESPACES=false az login'
